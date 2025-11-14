@@ -23,3 +23,4 @@ Tham gia dự án với vai trò được mời
 Bước 1: chủ dự án mời người tham gia thông qua mail 
 Bước 2: người tham gia kéo source code của dự án về 
     git clone "url git của dự án"
+    git demo
