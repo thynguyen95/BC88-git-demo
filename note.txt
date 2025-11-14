@@ -6,3 +6,14 @@ Các bước chuẩn bị repo:
 
 
 Đẩy các file lên git server (remote repo)
+1. khai báo những file cần đẩy lên remote repo 
+    git add "tên file"
+    git add -A 
+    git add .
+
+2. commit: message phải có ý nghĩa đúng với nội dung các file được đẩy lên remote repo
+    git commit -m "message commit"
+
+3. push code lên remote repo 
+    git push -u origin "tên nhánh" --- chỉ dùng cho lần đầu tiên push lên 1 nhánh
+    git push                       --- từ lần 2 trở đi trên 1 nhánh
