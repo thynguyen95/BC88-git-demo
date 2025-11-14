@@ -16,4 +16,10 @@ Các bước chuẩn bị repo:
 
 3. push code lên remote repo 
     git push -u origin "tên nhánh" --- chỉ dùng cho lần đầu tiên push lên 1 nhánh
-    git push                       --- từ lần 2 trở đi trên 1 nhánh
+    git push                       --- từ lần 2 trở đi trên 1 nhánh 
+
+
+Tham gia dự án với vai trò được mời 
+Bước 1: chủ dự án mời người tham gia thông qua mail 
+Bước 2: người tham gia kéo source code của dự án về 
+    git clone "url git của dự án"
