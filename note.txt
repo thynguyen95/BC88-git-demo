@@ -1,0 +1,8 @@
+Các bước chuẩn bị repo:
+1. Bước 1: Tạo local repository: git init 
+2. Bước 2: Tạo remote repository: tạo repo trên trang github 
+3. Bước 3: kết nối local repo và remote repo với nhau: 
+    git remote add origin "url của remote repo"
+
+
+Đẩy các file lên git server (remote repo)
